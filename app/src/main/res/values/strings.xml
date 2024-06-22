@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComposeTest</string>
+
+    <string name="menu_home">홈</string>
+    <string name="menu_map">지도</string>
+    <string name="menu_calendar">달력</string>
+    <string name="menu_info">정보</string>
+    <string name="title_activity_choice">정보</string>
+</resources>
